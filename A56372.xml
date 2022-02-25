@@ -1,0 +1,590 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The figvre of seven very pleasant to reade, plaine to vnderstand, and profitable to practise / by M.P. ; three, foure, five, six, sufficient proofe have given of their acceptance, what should hinder seven?</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56372</idno>
+            <idno type="STC">Wing P437A</idno>
+            <idno type="STC">ESTC R7676</idno>
+            <idno type="EEBO-CITATION">12921147</idno>
+            <idno type="OCLC">ocm 12921147</idno>
+            <idno type="VID">95390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 990:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The figvre of seven very pleasant to reade, plaine to vnderstand, and profitable to practise / by M.P. ; three, foure, five, six, sufficient proofe have given of their acceptance, what should hinder seven?</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.P. for Fr. Coles ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English literature --  Anecdotes</term>
+               <term>English literature --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95390:1"/>
+            <!-- PDF PAGE 77 -->
+            <pb facs="tcp:95390:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 77 -->
+            <p>FIGVRE OF SEVEN.</p>
+            <p>Very Pleaſant to Reade, Plaine to Vnderſtand, And Profitable to Practiſe.</p>
+            <p>By <hi>M. P.</hi>
+            </p>
+            <p>Three, Foure, Five, Six, ſufficient proofe have given Of their acceptance; what ſhould hinder Seven?</p>
+            <q>
+               <bibl>PROV. 9.1.</bibl>
+               <p>Wiſdome hath built her an houſe, ſhee hath hewen out her ſeven Pillars.</p>
+            </q>
+            <p>LONDON, Printed by <hi>E. P.</hi> for <hi>Fr. Coles,</hi> dwelling in the <hi>Old Bayly,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:95390:2"/>
+            <!-- PDF PAGE 78 -->
+            <pb facs="tcp:95390:2"/>
+            <!-- PDF PAGE 78 -->
+            <head>THE FIGVRE OF SEVEN.</head>
+            <list>
+               <item>1. <hi>THere be ſeven things which (eſpeci<g ref="char:EOLhyphen"/>ally) mode any Reader to buy (or reade) a Booke:</hi>
+                  <list>
+                     <item>Affection to the Author,</item>
+                     <item>Conceits of the Theame,</item>
+                     <item>A promiſing Title,</item>
+                     <item>Performance in the Diſcourſe,</item>
+                     <item>The pleaſure of the Fancie,</item>
+                     <item>The elegancie of the Stile,</item>
+                     <item>And encreaſe of Knowledge.</item>
+                  </list>
+               </item>
+               <item>2. <hi>There be ſeven excellent Motives to<g ref="char:EOLhyphen"/>wards the Government of the World:</hi>
+                  <list>
+                     <item>The People in good order,</item>
+                     <item>The Rich faithfull,</item>
+                     <item>The Youth obedient,</item>
+                     <item>Clergie honeſt,</item>
+                     <item>The old folkes wiſe,</item>
+                     <item>
+                        <pb facs="tcp:95390:3"/>
+                        <!-- PDF PAGE 79 -->
+The Poore humble,</item>
+                     <item>And the Women ſhame-fac'd.</item>
+                  </list>
+               </item>
+               <item>3. <hi>By ſeven manner of meanes man is wiſely taught to know God:</hi>
+                  <list>
+                     <item>Truſt in God, and love him,</item>
+                     <item>Uſe prayer, and honour him,</item>
+                     <item>Denie the World for love of him,</item>
+                     <item>Rule rightly, and dread him,</item>
+                     <item>Sorrow diſcreetly, and ſeeke him,</item>
+                     <item>Wake, weepe, and pleaſe him,</item>
+                     <item>And even in trouble thanke him.</item>
+                  </list>
+               </item>
+               <item>4. <hi>There be ſeven things incident to an old man who marries a young Wife:</hi>
+                  <list>
+                     <item>He hath a Toy to play with,</item>
+                     <item>A Child to nouriſh,</item>
+                     <item>A Ship to deck,</item>
+                     <item>A Wind-mill to keepe,</item>
+                     <item>A Lute to ſtring,</item>
+                     <item>A Colt to breake,</item>
+                     <item>And a Servant to teach.</item>
+                  </list>
+               </item>
+               <item>5. <hi>There be ſeven things in which a man ought not to be raſh or over-haſtie:</hi>
+                  <list>
+                     <item>In unneceſſarie words,</item>
+                     <item>In undecent ſwearing,</item>
+                     <item>In entertainment of Quarrels,</item>
+                     <item>
+                        <pb facs="tcp:95390:3"/>
+                        <!-- PDF PAGE 79 -->
+In conceiving an ill opinion of his friend.</item>
+                     <item>In Barga<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nes,</item>
+                     <item>In Marriage,</item>
+                     <item>Nor in giving Counſell.</item>
+                  </list>
+               </item>
+               <item>6. <hi>There be ſeven ſorts of Creatures, that the more they are in companie, the more trouble:</hi>
+                  <list>
+                     <item>Many Women much babbling,</item>
+                     <item>Many Geeſe much gaggling,</item>
+                     <item>Many Youths, much wanton faſhion,</item>
+                     <item>Many Sects, much alteration,</item>
+                     <item>Many lewd Prieſts, much ill teaching,</item>
+                     <item>Many Gameſters, much o'r-reaching,</item>
+                     <item>Many Theeves, much Hal<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er-ſtretching.</item>
+                  </list>
+               </item>
+               <item>7. <hi>There be ſeven worthy Documents fit for every Chriſtian to learne and practiſe:</hi>
+                  <list>
+                     <item>To thinke on the time paſt,</item>
+                     <item>To uſe well the time preſent,</item>
+                     <item>To provide for the time to come,</item>
+                     <item>To reveale things doubtfull,</item>
+                     <item>To thinke on God and ſerve him,</item>
+                     <item>To thinke on Heaven, to obtaine it,</item>
+                     <item>And to thinke on Hell, to avoid it.</item>
+                  </list>
+               </item>
+               <item>8. <hi>There be ſeven Leſſon<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> which the Father ought to learne and teach his Sonne.</hi>
+                  <list>
+                     <pb facs="tcp:95390:4"/>
+                     <!-- PDF PAGE 80 -->
+                     <item>To learne him laudable Cuſtomes,</item>
+                     <item>To give him good Education,</item>
+                     <item>To keepe him under Obedience,</item>
+                     <item>To reach him Divine Duties,</item>
+                     <item>To correct him with diſcretion,</item>
+                     <item>To provide for his future welfare,</item>
+                     <item>To nouriſh (and feed) him with ſobrietie.</item>
+                  </list>
+               </item>
+               <item>9. <hi>There be likewiſe ſeven eſpeciall Du<g ref="char:EOLhyphen"/>ties which the Sonne doth owe unto his Parents:</hi>
+                  <list>
+                     <item>To beare them reſpect and reverence,</item>
+                     <item>To obey all their lawfull Commands,</item>
+                     <item>To hearken to their good Counſailes,</item>
+                     <item>Not to deſpiſe them in any thing,</item>
+                     <item>Not to ſlight them in old Age,</item>
+                     <item>Nor to ſcorne them in Povertie,</item>
+                     <item>But to provide for their Suſtenance.</item>
+                  </list>
+               </item>
+               <item>10. <hi>There be ſeven Duties of a Huſband to his Wife:</hi>
+                  <list>
+                     <item>To Love her as himſelfe,</item>
+                     <item>To provide for her to his Power,</item>
+                     <item>To nouriſh her in Soule and Body,</item>
+                     <item>To Apparell her honeſtly,</item>
+                     <item>To avoid cauſeleſſe Jealouſie,</item>
+                     <item>To conſider her as the weaker Veſſell,</item>
+                     <item>And to give her due benevolence.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb facs="tcp:95390:4"/>
+                  <!-- PDF PAGE 80 -->
+11. <hi>There be alſo ſeven Duties of a Wife to her Huſband:</hi>
+                  <list>
+                     <item>To love him above all other men,</item>
+                     <item>To hearken to his Sayings,</item>
+                     <item>To be patient, and forbeare Anger,</item>
+                     <item>To give no occaſion of (&amp; to ſhun) Jealouſie,</item>
+                     <item>To be ſober and temperate,</item>
+                     <item>To looke well to his Houſe, Children, and Servants,</item>
+                     <item>And to honour his perſon.</item>
+                  </list>
+               </item>
+               <item>12. <hi>There be ſeven things which every young man deſireth when he intendeth to marry:</hi>
+                  <list>
+                     <item>That his Wife be young and beautifull,</item>
+                     <item>That ſhe be modeſt and ſhame-fac't,</item>
+                     <item>That ſhe beare correſpondent affection,</item>
+                     <item>That ſhe be no tatling Goſſip,</item>
+                     <item>That ſhe be no Scold,</item>
+                     <item>That ſhe order well his Family,</item>
+                     <item>And above all, that ſhe be conſtant to him.</item>
+                  </list>
+               </item>
+               <item>13. <hi>There be alſo ſeven other things which a marryed man delights in:</hi>
+                  <list>
+                     <item>To be ſure that his Wife loves him well,</item>
+                     <item>To ſee fine Children proſperous,</item>
+                     <item>To have them well inſtructed,</item>
+                     <item>To have obedient ſervants,</item>
+                     <item>
+                        <pb facs="tcp:95390:5"/>
+                        <!-- PDF PAGE 81 -->
+To live in peace and unitie,</item>
+                     <item>To thrive by his Calling,</item>
+                     <item>And (chiefely) to be Maſter of the Houſe.</item>
+                  </list>
+               </item>
+               <item>14. <hi>There be ſeven things which kéepe a wo<g ref="char:EOLhyphen"/>man honeſt:</hi>
+                  <list>
+                     <item>Not to liſten to Flatterers,</item>
+                     <item>Not to be too converſant with men,</item>
+                     <item>Not to uſe audacious words,</item>
+                     <item>Not to demeane her ſelfe immodeſtly,</item>
+                     <item>Not to weare gawdie Apparell,</item>
+                     <item>Not to eate delicious Dyet,</item>
+                     <item>And eſpecially not to forget God nor her Husband.</item>
+                  </list>
+               </item>
+               <item>15. <hi>There be ſeven things which cauſe either man or woman to be well thought, and ſpoken of:</hi>
+                  <list>
+                     <item>Juſtice in dealing,</item>
+                     <item>Courteſie in behaviour,</item>
+                     <item>Modeſtie in ſpeech,</item>
+                     <item>To abſtaine from Lying,</item>
+                     <item>To abhorre Blaſphemie,</item>
+                     <item>To loath obſcene diſcourſe,</item>
+                     <item>And to be faithfull in friendſhip.</item>
+                  </list>
+               </item>
+               <item>16. <hi>There be on the contrarie ſeven things which make them odious to good ſocietie:</hi>
+                  <list>
+                     <pb facs="tcp:95390:5"/>
+                     <!-- PDF PAGE 81 -->
+                     <item>Fraud in buying and ſelling,</item>
+                     <item>Rudeneſſe in carriage,</item>
+                     <item>Churliſhneſſe in words,</item>
+                     <item>To be a noted Lyar,</item>
+                     <item>To be a common Swearer,</item>
+                     <item>To uſe filthie talke,</item>
+                     <item>And to be trecherous in truſt.</item>
+                  </list>
+               </item>
+               <item>17. <hi>There be ſeven things which a <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n ought to conſider of, when he is aſk'd any queſtion:</hi>
+                  <list>
+                     <item>Who it is that demandeth? whether ſupe<g ref="char:EOLhyphen"/>rior, e<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uall or inferior.</item>
+                     <item>What it is that he doth demand?</item>
+                     <item>The cauſe why he doth demand it,</item>
+                     <item>Whether his demand be to his benefit or detriment?</item>
+                     <item>What will be the iſſue, if he grant?</item>
+                     <item>What the end, if he denie?</item>
+                     <item>And to anſwer or not anſwer accordingly.</item>
+                  </list>
+               </item>
+               <item>18. <hi>There be ſeven things requiſit<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in a Iudge:</hi>
+                  <list>
+                     <item>To heare patiently,</item>
+                     <item>To anſwer wiſely,</item>
+                     <item>To declare intentively,</item>
+                     <item>To ſhun Partialitie,</item>
+                     <item>To hate Briberie,</item>
+                     <item>
+                        <pb facs="tcp:95390:6"/>
+                        <!-- PDF PAGE 82 -->
+To incline indifferently,</item>
+                     <item>And to Judge juſtly.</item>
+                  </list>
+               </item>
+               <item>19. <hi>There be ſeven things neceſſary for a Clyents Inſtruction:</hi>
+                  <list>
+                     <item>To tell his Caſe punctually,</item>
+                     <item>To ſhun therein ſelfe-flatterie,</item>
+                     <item>To Fee his Lawyer bounteouſly,</item>
+                     <item>To proſecute with equitie,</item>
+                     <item>To uſe his oppoſite courteouſly,</item>
+                     <item>To ſeeke no meanes diſ-honeſtly,</item>
+                     <item>And to take the Iſſue patiently.</item>
+                  </list>
+               </item>
+               <item>20. <hi>There be ſeven things which moſt men deſire, yet none can ever obtayn<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in this World:</hi>
+                  <list>
+                     <item>Riches enough to ſuffice him; without wiſhing for more,</item>
+                     <item>To be perfect in all Sciences and Learning,</item>
+                     <item>To have his minde alwayes permanent,</item>
+                     <item>To ſuffer no Croſſe nor Affliction,</item>
+                     <item>To have Eaſe and Reſt continually.</item>
+                     <item>To enjoy conſtant Felicitie,</item>
+                     <item>And to have Peace of Conſcience per<g ref="char:EOLhyphen"/>petually.</item>
+                  </list>
+               </item>
+               <item>21. <hi>There be ſeven things that the more they be ſought for, the leſſe they be ſound.</hi>
+                  <list>
+                     <pb facs="tcp:95390:6"/>
+                     <!-- PDF PAGE 82 -->
+                     <item>The number of Friends,</item>
+                     <item>The peace of the Froward,</item>
+                     <item>The guilt of the Miſer,</item>
+                     <item>The truth of a Flatterer,</item>
+                     <item>The wayes of the Wind,</item>
+                     <item>The ſubmiſſion of the Prowd,</item>
+                     <item>And wiſdome in a Foole.</item>
+                  </list>
+               </item>
+               <item>22. <hi>There be ſeven things world then Death:</hi>
+                  <list>
+                     <item>Povertie in old Age,</item>
+                     <item>Deſperation after Sinne,</item>
+                     <item>Want of Patience in Adverſitie,</item>
+                     <item>Inſultation of ones Enemies,</item>
+                     <item>Labour in vaine,</item>
+                     <item>Sickneſſe in Priſon,</item>
+                     <item>And to lye continually in Fire.</item>
+                  </list>
+               </item>
+               <item>23. <hi>There be ſeven things to be had without buying, which being gotten, will ſeares be ſold for Money:</hi>
+                  <list>
+                     <item>An evill Name,</item>
+                     <item>An evill Behaviour,</item>
+                     <item>An evill Cuſtome,</item>
+                     <item>An evill Conſcience,</item>
+                     <item>An evill Companion,</item>
+                     <item>An evill Diſeaſe,</item>
+                     <item>And an evill (Wife) or Husband<g ref="char:punc">▪</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <pb facs="tcp:95390:7"/>
+                  <!-- PDF PAGE 83 -->
+24. <hi>There be ſeven things which bring a man to wiſdome:</hi>
+                  <list>
+                     <item>Studie of Sciences,</item>
+                     <item>Experience of many things,</item>
+                     <item>Obſervation of other mens affaires,</item>
+                     <item>Examples of the wiſe,</item>
+                     <item>Advices of the prudent,</item>
+                     <item>Inriching the intellect,</item>
+                     <item>And the marking of ambiguous Chan<g ref="char:EOLhyphen"/>ces.</item>
+                  </list>
+               </item>
+               <item>25. <hi>There be ſeven duties required in a King or great Potentate:</hi>
+                  <list>
+                     <item>That he render unto God more then he expects from his ſubjects,</item>
+                     <item>That he remember whoſe Vice-gerent he is,</item>
+                     <item>That he be ever mindful<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of his account to God,</item>
+                     <item>That he governe his people with Ju<g ref="char:EOLhyphen"/>ſtice,</item>
+                     <item>That he utterly hate Covetouſneſſe, as the root of all evill,</item>
+                     <item>That he be courteous and affable to all people,</item>
+                     <item>And that he obtain<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> friendſhip of neigh<g ref="char:EOLhyphen"/>bour Natio<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb facs="tcp:95390:7"/>
+                  <!-- PDF PAGE 83 -->
+26. <hi>There be (alſo) ſeven duties requiſite in a Princely Heire Apparant:</hi>
+                  <list>
+                     <item>To remember his Creator in the dayes of his youth,</item>
+                     <item>To be exceedingly well Learned,</item>
+                     <item>To know al<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Arts and Sciences,</item>
+                     <item>To exerciſe Militarie Diſcipline,</item>
+                     <item>To be liberall and bountifull,</item>
+                     <item>To be eaſily ſpoken withall,</item>
+                     <item>And to get favour of the common people.</item>
+                  </list>
+               </item>
+               <item>27. <hi>There be ſeven things neceſſarie for all Nobles and Gentry:</hi>
+                  <list>
+                     <item>To put diſcr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>et and truſtie men in Office,</item>
+                     <item>To order their Family with wiſdome and credit,</item>
+                     <item>To be kind loving, and reaſonable to their Tenants,</item>
+                     <item>To pay Servants <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>heir Wages juſtly,</item>
+                     <item>To have no unpay'd Tradeſ-men exclaime on them,</item>
+                     <item>To keepe good Hoſpitalitie,</item>
+                     <item>And to ſuccour the Poore with Charitie.</item>
+                  </list>
+               </item>
+               <item>28. <hi>There be ſeven things incident to a good Governour of a Citie:</hi>
+                  <list>
+                     <item>To ſeeke Peace, and purſue it,</item>
+                     <item>
+                        <pb facs="tcp:95390:8"/>
+                        <!-- PDF PAGE 84 -->
+To gaine the aſſiſtance of grave and ho<g ref="char:EOLhyphen"/>neſt Counſellors,</item>
+                     <item>To procure (to his power) plentie of Vi<g ref="char:EOLhyphen"/>ctuall,</item>
+                     <item>To ſee Juſtice in Weights and Meaſures,</item>
+                     <item>To mix Mercie with Juſtice in all his actions,</item>
+                     <item>To puniſh Vice and cheriſh Vertue,</item>
+                     <item>And to procure the love of all people.</item>
+                  </list>
+               </item>
+               <item>29. <hi>There be ſeven things to be conſidered <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>:</hi>
+                  <list>
+                     <item>To have Money enough,</item>
+                     <item>To have able and willing Souldiers at command,</item>
+                     <item>To have experienced Commanders and Officers,</item>
+                     <item>To have plentie of Victuall,</item>
+                     <item>To be well furniſhed with Munition,</item>
+                     <item>To have often intelligence from the Ene<g ref="char:EOLhyphen"/>mie,</item>
+                     <item>And eſpecially to have a good Cauſe.</item>
+                  </list>
+               </item>
+               <item>30. <hi>There be ſeven things commendable in the Captaine Generall of an Army:</hi>
+                  <list>
+                     <item>To have Nobilltie, of Bloud,</item>
+                     <item>To have large Revenues,</item>
+                     <item>To have a faithfull and ſtout heart,</item>
+                     <item>
+                        <pb facs="tcp:95390:8"/>
+                        <!-- PDF PAGE 84 -->
+To have the foure Cardinall Vertues in eſteeme,</item>
+                     <item>To have confidence in his Cauſe,</item>
+                     <item>To unite Clemencie and Victorie toge<g ref="char:EOLhyphen"/>ther,</item>
+                     <item>And to have the love of his Souldiers for his vertue.</item>
+                  </list>
+               </item>
+               <item>31. <hi>There be ſeven things requi<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>te <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> Phyſician:</hi>
+                  <list>
+                     <item>To know the nature of the Diſeaſe,</item>
+                     <item>To judge the complection of his Patient,</item>
+                     <item>To be well vers'd in Anatomie,</item>
+                     <item>To viſit his Patient often,</item>
+                     <item>To give Medicines according to the Diſ<g ref="char:EOLhyphen"/>eaſe,</item>
+                     <item>To comfort his Patient with hopes,</item>
+                     <item>And to cure poore people for Gods ſake<g ref="char:punc">▪</g>
+                     </item>
+                  </list>
+               </item>
+               <item>32. <hi>There be ſeven things to be obſerved by a ſick Body:</hi>
+                  <list>
+                     <item>To obey the Phyſicians inſtruction in Diet and Exerciſe,</item>
+                     <item>To ſpare nothing for Healths ſake,</item>
+                     <item>To be a true Patient, not onely in name but in practiſe,</item>
+                     <item>To have confidence in the Phyſician<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Judgement,</item>
+                     <item>
+                        <pb facs="tcp:95390:9"/>
+                        <!-- PDF PAGE 85 -->
+To be carefull of bre<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>king his Pr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſcrip<g ref="char:EOLhyphen"/>tions,</item>
+                     <item>To be quiet and comfortable.</item>
+                     <item>And chiefely, to relie upon God for Cure, or calling away.</item>
+                  </list>
+               </item>
+               <item>33. <hi>To conclude, there be ſeven things which extenu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>teth the credit of (other-wayes) wiſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> men:</hi>
+                  <list>
+                     <item>To commit error in Knowledge,</item>
+                     <item>To be over-ſway'd by Opinion,</item>
+                     <item>To be partiall in Judgement,</item>
+                     <item>To be laviſh in Conjectures,</item>
+                     <item>To ſeeke Juſtice for him who hath not de<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rv'd it,</item>
+                     <item>To diſprayſe others without cauſe,</item>
+                     <item>And to credit all things over-lightly.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95390:9"/>
+            <!-- PDF PAGE 85 -->
+         </div>
+      </body>
+   </text>
+</TEI>
